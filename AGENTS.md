@@ -17,3 +17,6 @@ python scripts/llms_gen.py --name MyProject --url https://github.com/org/repo --
 ## Rules
 - Never publishes to remote; writes local file only.
 - No placeholders in outputs.
+
+## Skill Marketplace
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace — full skill catalog (enter from any skill).
